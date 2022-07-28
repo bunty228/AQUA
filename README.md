@@ -83,64 +83,52 @@ _ _ _
 
 ---
 
-<details>
-<summary><b><h1 align="center">Featurs ☑️ ==</h1></b></summary>
-<p align="left">
+# List of Commands Available in Zero Two
+  <details>
+  <summary>List (Touch Here)</summary>
+<p>
 
-`🤹️ command:` .song <br>
-`📍 description:` Download Songs. <br>
+ 
 
-`🤹️ command:` .video <br>
-`📍 description:` Download Videos. 
+┌─(📥ᴅᴏᴡɴʟᴏᴀᴅᴇʀ ᴄᴏᴍᴍᴀɴᴅꜱ)
+-│.song
+-│.video
+-│.fb
+-│.ig
+-│.tiktok
+-│.mediafire 
+-│.img
+-│.downapk
 
-`🤹️ command:` .tiktok <br>
-`📍 description:` Download Tiktok Videos. 
+┌─(🔍ꜱᴇᴀʀᴄʜ ᴄᴏᴍᴍᴀɴᴅꜱ)
+-│.getyt
+-│.findapk
 
-`🤹️ command:` .fb<br>
-`📍 description:` Download Facebook Videos. 
+┌─(🧰ᴄᴏɴᴠᴇʀᴛ ᴄᴏᴍᴍᴀɴᴅꜱ)
+-│.sticker
+-│.imagesticker
+-│.vsticker
+-│.pemoji
+-│.sticemoji
+-│.emomix
+-│.removebg
+-│.logo1
+-│.mp4audio
 
-`🤹️ command:` .ig <br>
-`📍 description:` Download Instagram Videos. 
+┌─(🪀ɢʀᴏᴜᴘ ᴄᴏᴍᴍᴀɴᴅꜱ)
+-│.add
+-│.kick
+-│.promote
+-│.demote
+-│.mute
+-│.unmute
+-│.tagall
 
-`🤹️ command:` .mediafire <br>
-`📍 description:` Download Mediafire Files. 
+┌─(🧑‍💻ᴀᴅᴍɪɴ ᴄᴏᴍᴍᴀɴᴅꜱ)
+-│.update
+-│.ping
 
-`🤹️ command:` .downapk<br>
-`📍 description:` Download Apks. 
+┌─(💫ᴏᴛʜᴇʀ ᴄᴏᴍᴍᴀɴᴅꜱ)
+-│.alive
 
-`🤹️ command:` .findapk <br>
-`📍 description:`  Search Apps. 
-
-`🤹️ command:` .img<br>
-`📍 description:` Download Images. 
-
-`🤹️ command:` .getyt <br>
-`📍 description:` Search Video In Youtube. 
-
-`🤹️ command:` .add<br>
-`📍 description:` Adds someone to the group. 
-
-`🤹️ command:` .promote <br>
-`📍 description:` Makes any person an admin. 
-
-`🤹️ command:` .demote <br>
-`📍 description:` Takes the authority of any admin. 
-
-`🤹️ command:` .mute <br>
-`📍 description:` Mute the group chat. Only the admins can send a message.
-⌨️ Example: .mute & .mute 5m etc 
-
-`🤹️ command:` .unmute <br>
-`📍 description:` Unmute the group chat. Anyone can send a message. 
-
-`🤹️ command:` .alive <br>
-`📍 description:` Check Bot Online. 
-
-`🤹️ command:` .update <br>
-`📍 description:` Bot Updates.. 
-
-`🤹️ command:` .sticker <br>
-`📍 description:` Create Sticker. 
-
-`🤹️ command:` .removebg <br>
-`📍 description:` Image Background Remove. 
+  an lot more....
