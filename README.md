@@ -54,3 +54,20 @@
 <div align="center">
 
  [![Run on Repl.it](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)](https://replit.com/@ALPHAOFFICIAL/V5)
+
+
+<h1> ⚠️ Warning! ⚠️️</h1>
+
+```
+Due to Userbot ; Your WhatsApp account may be banned.
+This is an open source project, you are responsible for everything you do. 
+Absolutely, Aqua executives do not accept responsibility.
+By establishing the Aqua , you are deemed to have accepted these responsibilities.
+```
+
+`Be careful using using this commands 👇`
+> **add , remove , promote , demote**
+[ dont remove up to 1 person at same time ]
+it may banned your account from whatsapp 🚫
+
+</div>
