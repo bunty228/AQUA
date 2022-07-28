@@ -41,6 +41,13 @@
  ###  Developer :- Sanjuwa Ofc 
 
 
+> Click the logo to watch Bot tutorial video ✅
+
+<a href="https://youtu.be/Z9rIR0Vopb8"><img title="Logo" src="https://telegra.ph/file/4b2a7d5c1689711f62c3a.jpg">
+
+---
+
+
   #### TOTAL REPO VIEWS
 ![Visitor Count](https://profile-counter.glitch.me/Sanjuwa22/count.svg)
 </p>
