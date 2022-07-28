@@ -83,7 +83,7 @@ _ _ _
 
 ---
 
-# List of Commands Available in Zero Two
+# List of Commands Available in Aqua
   <details>
   <summary>List (Touch Here)</summary>
 <p>
