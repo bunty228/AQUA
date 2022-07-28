@@ -91,44 +91,49 @@ _ _ _
  
 
 ┌─(📥ᴅᴏᴡɴʟᴏᴀᴅᴇʀ ᴄᴏᴍᴍᴀɴᴅꜱ)
--         │.song
--         │.video
--         │.fb
--         │.ig
--         │.tiktok
--         │.mediafire 
--         │.img
--         │.downapk
+-         .song
+-         .video
+-         .fb
+-         .ig
+-         .tiktok
+-         .mediafire 
+-         .img
+-         .downapk
 
 ┌─(🔍ꜱᴇᴀʀᴄʜ ᴄᴏᴍᴍᴀɴᴅꜱ)
--         │.getyt
--         │.findapk
+
+-         .getyt
+-         .findapk
 
 ┌─(🧰ᴄᴏɴᴠᴇʀᴛ ᴄᴏᴍᴍᴀɴᴅꜱ)
--         │.sticker
--         │.imagesticker
--         │.vsticker
--         │.pemoji
--         │.sticemoji
--         │.emomix
--         │.removebg
--         │.logo1
--         │.mp4audio
+
+-         .sticker
+-         .imagesticker
+-         .vsticker
+-         .pemoji
+-         .sticemoji
+-         .emomix
+-         .removebg
+-         .logo1
+-         .mp4audio
 
 ┌─(🪀ɢʀᴏᴜᴘ ᴄᴏᴍᴍᴀɴᴅꜱ)
--         │.add
--         │.kick
--         │.promote
--         │.demote
--         │.mute
--         │.unmute
--         │.tagall
+
+-         .add
+-         .kick
+-         .promote
+-         .demote
+-         .mute
+-         .unmute
+-         .tagall
 
 ┌─(🧑‍💻ᴀᴅᴍɪɴ ᴄᴏᴍᴍᴀɴᴅꜱ)
--         │.update
--         │.ping
+
+-         .update
+-         .ping
 
 ┌─(💫ᴏᴛʜᴇʀ ᴄᴏᴍᴍᴀɴᴅꜱ)
--         │.alive
+
+-         .alive
 
   an lot more....
