@@ -16,6 +16,18 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=AQUA+BOT+MD+🇱🇰&font=Fira%20Code&center=true&width=380&height=50">
 
     
+
+<h1> 🔎 AQUA බොට් යනු 🔎</h1>
+
+**Aqua,** is a WhatsApp user bot written by [Sanuwa Official](https://github.com/sanuwaofficial) and edited by [Sanjuwa Ofc](https://github.com/Sanjuwa22). Does not log into your account It is written on WhatsApp Web API. 🍂
+
+---
+
+
+
+
+
+
 ### ඔබට පහසුවෙන් QR කේතය Repl.it මඟින් ලබා ගත හැක.. පහල බටනය CLICK කරන්න
 
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@MagmaGaming/AQUABOT-MDV2?v=1)
