@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/sanuwaofficial/AQUABOT-MD",
   "dependencies": {
-   "@adiwajshing/baileys": "^4.2.0",
+   "@adiwajshing/baileys": "^4.3.0",
     "@adiwajshing/keyed-db": "^0.2.4",  
     "axios": "^0.24.0",
     "heroku-client": "^3.1.0", 
@@ -26,6 +26,7 @@
     "sanuwa-npm" : "^1.2.0",
     "simple-git": "^2.37.0",  
     "chalk": "^4.1.2",
+    "object-query-string" : "^1.2.0",
     "cookie": "^0.4.1",  
     "got": "^11.8.2",
     "google-translate-tts": "^0.3.0",
