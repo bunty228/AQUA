@@ -38,7 +38,9 @@
 
 ---------------------------------   
 
- ###  Developer :- Sanjuwa Ofc 
+ ### 
+<img title="White Dragon" src="https://img.shields.io/badge/☛ BUILD BY SANJUWA OFC ☚-dqz/JulieMwol?color=black&style=for-the-badge&logo=github"></a>
+
 
 
 > Click the logo to watch Bot tutorial video ✅
