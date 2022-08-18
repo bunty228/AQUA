@@ -6,7 +6,7 @@
 
 # AQUABOT MULTI DEVICE 
 
-<p align="center"> <a href="github.com/Sanjuwa22"><img align="center" src="https://telegra.ph/file/85fe740b2385a55178500.jpg"/></a>
+<p align="center"> <a href="github.com/bunty228"><img align="center" src="https://telegra.ph/file/85fe740b2385a55178500.jpg"/></a>
  <p align="center">
 </p>
 <p align='center'>
@@ -19,7 +19,7 @@
 
 <h1> 🔎 AQUA බොට් යනු 🔎</h1>
 
-**Aqua,** is a WhatsApp user bot written by [Sanuwa Official](https://github.com/sanuwaofficial) and edited by [Sanjuwa Ofc](https://github.com/Sanjuwa22). Does not log into your account It is written on WhatsApp Web API. 🍂
+**Aqua,** is a WhatsApp user bot written by [Sanuwa Official](https://github.com/sanuwaofficial) and edited by [bunty228](https://github.com/bunty228). Does not log into your account It is written on WhatsApp Web API. 🍂
 
 ---
 
@@ -34,12 +34,12 @@
 
 ## QR කේතය ලබා ගත් පසු Bot deploy කිරීමට පහල බටනය CLICK කරන්න..
 
-[![Deploy](https://www.herokucdn.com/deploy/b7utton.svg)](https://heroku.com/deploy?template=https://github.com/Sanjuwa22/AQUA)
+[![Deploy](https://www.herokucdn.com/deploy/b7utton.svg)](https://heroku.com/deploy?template=https://github.com/bunty228/AQUA)
 
 ---------------------------------   
 
  ### 
-<img title="White Dragon" src="https://img.shields.io/badge/☛ BUILD BY SANJUWA OFC ☚-dqz/JulieMwol?color=black&style=for-the-badge&logo=github"></a>
+<img title="White Dragon" src="https://img.shields.io/badge/☛ BUILD BY KAVISHKA ☚-dqz/JulieMwol?color=black&style=for-the-badge&logo=github"></a>
 
 
 
@@ -51,7 +51,7 @@
 
 
   #### TOTAL REPO VIEWS
-![Visitor Count](https://profile-counter.glitch.me/Sanjuwa22/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/bunty228/count.svg)
 </p>
 
 <div align="center">		
